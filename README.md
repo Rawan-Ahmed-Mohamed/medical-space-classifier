@@ -11,8 +11,11 @@ A machine learning web application that classifies news articles as either **Med
 - **Interactive Web Interface** using Gradio
 - **Real-time Predictions** with confidence scores
 
+## 📊 Data Visualization & Analysis
+
+The project includes comprehensive data visualizations generated automatically.
+
 ## 🚀 Live Demo
 **Try it live on Hugging Face:**  
 👉 [https://huggingface.co/spaces/RawanMostafa/classifier-Med-Space](https://huggingface.co/spaces/RawanMostafa/classifier-Med-Space)
 
-## 📁 Project Structure
