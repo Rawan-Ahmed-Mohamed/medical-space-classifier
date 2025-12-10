@@ -1,0 +1,8 @@
+gradio
+joblib
+tensorflow
+scikit-learn
+numpy
+matplotlib
+wordcloud
+pandas
