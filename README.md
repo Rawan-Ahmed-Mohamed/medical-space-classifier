@@ -1,12 +1,18 @@
----
-title: Classifier Med Space
-emoji: 🚀
-colorFrom: yellow
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.0.0
-app_file: app.py
-pinned: false
----
+# 🚀 Medical vs Space News Classifier
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 📌 Project Overview
+A machine learning web application that classifies news articles as either **Medical** or **Space** related content.
+
+## 🏗️ Features
+- **3 Different ML Models**:
+  - Logistic Regression with TF-IDF
+  - Support Vector Machine (SVM) with TF-IDF
+  - LSTM Neural Network with embeddings
+- **Interactive Web Interface** using Gradio
+- **Real-time Predictions** with confidence scores
+
+## 🚀 Live Demo
+**Try it live on Hugging Face:**  
+👉 [https://huggingface.co/spaces/RawanMostafa/classifier-Med-Space](https://huggingface.co/spaces/RawanMostafa/classifier-Med-Space)
+
+## 📁 Project Structure
